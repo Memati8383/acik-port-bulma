@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.pyc
+scan_history.json
+convert_icon.py
