@@ -46,5 +46,5 @@ Hata bildirimleri veya özellik önerileri için lütfen bir issue açın veya p
 
 ---
 
-**Geliştiren:** [Antigravity AI]
+**Geliştiren:** [Memati8383]
 **Lisans:** MIT
